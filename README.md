@@ -43,6 +43,9 @@ Kéo xuống cuối trang lấy key
 
 Mỗi update sẽ đổi key nhé
 
+New update:
+29/01/2021 : Mã Khóa Tools.py và Update.py
+fix phá khóa
 
 
 
